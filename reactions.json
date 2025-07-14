@@ -1,0 +1,166 @@
+[
+  {
+    "num": 1,
+    "reaction": "NCC([O-])=O.[O-]P1(=O)OP([O-])(=O)OP([O-])(=O)O1>>NCC(=O)NCC([O-])=O.OP([O-])([O-])=O.OP(O)(=O)OP([O-])([O-])=O",
+    "stoichiometry": {
+      "reactants": {
+        "1": 1.0,
+        "2": 1.0
+      },
+      "products": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0
+      }
+    },
+    "target": {
+      "product": true,
+      "idx": 3,
+      "mols": 0.0001,
+      "mass": null
+    },
+    "states": {
+      "reactants": {
+        "1": "liquid",
+        "2": "liquid"
+      },
+      "products": {
+        "1": null,
+        "2": null,
+        "3": null
+      }
+    },
+    "density": {
+      "reactants": {
+        "1": 1.0,
+        "2": 1.0
+      }
+    },
+    "solvent": {
+      "density": 1.0,
+      "smiles": "O"
+    },
+    "sample_dilution_ratio": 10,
+    "chromatograph_method": "PS_Gly_synthesis",
+    "reaction_type": "peptide_synthesis",
+    "procedure_type": "synthesis",
+    "temperature": 90.0,
+    "time": 16200
+  },
+  {
+    "num": 2,
+    "reaction": "NCC([O-])=O.[O-]P1(=O)OP([O-])(=O)OP([O-])(=O)O1>O[K]>NCC(=O)NCC([O-])=O.OP([O-])([O-])=O.OP(O)(=O)OP([O-])([O-])=O",
+    "stoichiometry": {
+      "reactants": {
+        "1": 1.0,
+        "2": 1.0
+      },
+      "products": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0
+      },
+      "reagents": {
+        "1": 0.5
+      }
+    },
+    "target": {
+      "product": true,
+      "idx": 3,
+      "mols": 0.0001,
+      "mass": null
+    },
+    "states": {
+      "reactants": {
+        "1": "liquid",
+        "2": "liquid"
+      },
+      "products": {
+        "1": null,
+        "2": null,
+        "3": null
+      },
+      "reagents": {
+        "1": "liquid"
+      }
+    },
+    "density": {
+      "reactants": {
+        "1": 1.0,
+        "2": 1.0
+      },
+      "reagents": {
+        "1": 1.0
+      }
+    },
+    "solvent": {
+      "density": 1.0,
+      "smiles": "O"
+    },
+    "sample_dilution_ratio": 10,
+    "chromatograph_method": "PS_Gly_synthesis",
+    "reaction_type": "peptide_synthesis",
+    "procedure_type": "synthesis",
+    "temperature": 90.0,
+    "time": 16200
+  },
+  {
+    "num": 3,
+    "reaction": "NCC([O-])=O.[O-]P1(=O)OP([O-])(=O)OP([O-])(=O)O1>O[K]>NCC(=O)NCC([O-])=O.OP([O-])([O-])=O.OP(O)(=O)OP([O-])([O-])=O",
+    "stoichiometry": {
+      "reactants": {
+        "1": "1",
+        "2": "1"
+      },
+      "products": {
+        "1": "1",
+        "2": "1",
+        "3": "1"
+      },
+      "reagents": {
+        "1": "1"
+      }
+    },
+    "target": {
+      "product": true,
+      "idx": 1,
+      "mols": 0.0001,
+      "mass": null
+    },
+    "states": {
+      "reactants": {
+        "1": "liquid",
+        "2": "liquid"
+      },
+      "products": {
+        "1": null,
+        "2": null,
+        "3": null
+      },
+      "reagents": {
+        "1": "liquid"
+      }
+    },
+    "density": [
+      {
+        "reactants": {
+          "1": 1.0,
+          "2": 1.0
+        },
+        "reagents": {
+          "1": 1.0
+        }
+      }
+    ],
+    "solvent": {
+      "density": 1.0,
+      "smiles": "O"
+    },
+    "sample_dilution_ratio": 10,
+    "chromatograph_method": "PS_Gly_synthesis",
+    "reaction_type": "peptide_synthesis",
+    "procedure_type": "synthesis",
+    "temperature": 90.0,
+    "time": 16200
+  }
+]

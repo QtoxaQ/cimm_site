@@ -320,4 +320,4 @@ def load_initial_content(_):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8055)
+    app.run(debug=True, port=8051)
